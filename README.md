@@ -13,3 +13,6 @@ init .eslintrc file:
 CLI: eslint --init
 
 install ESLint Plugin for VSCode and allow it:
+
+There are plenty of rules which you can use to customize your own code style, for these rules, please refer to:
+https://eslint.org/docs/rules/
